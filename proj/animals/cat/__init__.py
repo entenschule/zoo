@@ -10,4 +10,4 @@ class Cat:
         for name in property_names:
             setattr(self, '_' + name, None)
 
-    from proj.cat.properties import clawnum
+    from proj.animals.cat.properties import clawnum
