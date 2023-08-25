@@ -1,4 +1,6 @@
-# property maker
+# prop_maker
+
+This function adds a property to a class.
 
 Example command to be run in _zoo_ folder:<br>
 `python proj/machinery/prop_maker animals.cat whiskers`
